@@ -44,10 +44,6 @@ function mrc() {
    display.value = memMrc;
    }
 
-function oneChar() {
-    let char = display.value;
-    //display.value = char.slice(0, 1);
-}
 
 
   
